@@ -18,10 +18,11 @@ This is the **frontend** of the Shopping Website built using **React (Vite)**.
 - Fetch API for REST calls
 - CSS for styling (inline styles + custom styles)
 
-- ## Backend Link
+## Backend Link
 
 The backend repository for this project can be found here:  
-[Shopping Website Backend]((https://github.com/riya8866/ShopIn-Backend))
+[Shopping Website Backend](https://github.com/riya8866/ShopIn-Backend)
+
 
 
 
